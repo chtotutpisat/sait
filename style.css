@@ -1,0 +1,228 @@
+.fon {
+    background-image: url(img/photo.png);
+    height: 1000px;
+    display: flex;
+}
+
+.c1 {
+    margin: 0 0 0 400px;
+}
+
+.f1 {
+    color: aliceblue;
+    margin: 0 0 0 50px;
+}
+
+.f2 {
+    color: aliceblue;
+    margin: 0 0 0 350px;
+}
+
+.d1 {
+    margin: 0 0 0 150px;
+}
+
+.d2 {
+    margin: 0 0 0 90px;
+}
+
+.d3 {
+    margin: 0 0 0 80px;
+}
+
+.o1 {
+    display: flex;
+}
+
+.t5 {
+    color: aliceblue;
+}
+
+.p3 {
+    height: 150px;
+    background-color: black;
+}
+
+.n {
+    background-color: burlywood;
+    width: 160px;
+}
+
+.cccccccc {
+    color: aliceblue;
+
+}
+
+.O01 {
+    margin: 50px 0 0 400px;
+}
+
+.u3 {
+    margin: 0 0 0 50px;
+}
+
+.u4 {
+    margin: 0 0 0 50px;
+    height: 237px;
+    width: 380px;
+}
+
+.m1 {
+    background-image: url(img/60707007070707007.png);
+    height: 706;
+}
+
+.p666 {
+    margin: 0 0 0 400px;
+}
+
+.l23332 {
+    margin: 150px 0 0 100px
+}
+
+.o1111 {
+    height: 200px;
+    background-color: black;
+}
+
+.gh0 {
+    margin: 70px 0 0 500px;
+}
+
+.gh1 {
+    margin: 0 0 0 150px;
+}
+
+.gh2 {
+    margin: 0 0 0 150px;
+}
+
+.gh3 {
+    margin: 0 0 0 150px;
+}
+
+.gh4 {
+    margin: 0 0 0 150px;
+}
+
+.cccccccc2 {
+    color: aliceblue;
+    margin: 0 0 0 500px;
+}
+
+.cc22 {
+    color: aliceblue;
+    margin: 0 0 0 170px;
+}
+
+.p677 {
+    margin: 10px 0 0 700px;
+}
+
+.gh43 {
+    margin: 0 0 0 50px;
+}
+
+.p6106 {
+    margin: 0 0 0 300px;
+}
+
+.o0000 {
+    margin: 0 0 0 300px;
+    display: flex;
+}
+
+.u234 {
+    margin: 0 0 0 230px;
+}
+
+.u2234 {
+    margin: 0 0 0 130px;
+}
+
+.kk2 {
+    background-image: url(img/GORI.png);
+    height: 490px;
+
+}
+
+.ko1 {
+    margin: 150px 0 0 400px;
+}
+
+.offf1 {
+    display: flex;
+    background-color: black;
+    height: 400px;
+}
+
+.yg6 {
+    margin: 80px 0 0 150px;
+
+}
+.fgh {
+    margin: 50px 0 0 200px;
+    height: 50px;
+    width: 50px;
+
+}
+.lkg5 {
+    color: azure;
+}
+
+.ui0 {
+    height: 50px;
+    width: 50px;
+}
+
+.hj5 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@media (max-width: 750px)
+{
+.fon,.c1,.c1,.f1,.f2,.o1,.d1,.d2,.d3,.p3,.t5,.n,.cccccccc,.O01,.u3,.u4,.m1,.p666,.l23332,.o1111,.gh0,.gh1,.gh2,.gh3,.gh4,.cccccccc2,.cc22,.p6106,.gh43,.o0000,.u2234,.kk2,.lo1,.yg6,.ui0,.lkg5
+{ display:flex ;
+justify-content: center;
+align-items: center;
+}
+}
+.ssdl {
+height: 500px;
+background-color: black;
+display: flex;
+}
+.lkg6 {
+    color: azure;
+    margin: 0 0 0 160px;
+}
+.lkg7 {
+    color: azure;
+    margin: 30px 0 0 180px;
+}
+
+.bn4 {
+margin: 100px 0 0 100px;
+}
+.ke {
+    color: coral;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
