@@ -23,7 +23,7 @@
 }
 
 .d2 {
-    margin: 0 0 0 90px;
+    margin: 0 0 0 130px;
 }
 
 .d3 {
@@ -57,9 +57,7 @@
     margin: 50px 0 0 400px;
 }
 
-.u3 {
-    margin: 0 0 0 50px;
-}
+
 
 .u4 {
     margin: 0 0 0 50px;
@@ -70,6 +68,9 @@
 .m1 {
     background-image: url(img/60707007070707007.png);
     height: 706;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .p666 {
@@ -112,7 +113,11 @@
 
 .cc22 {
     color: aliceblue;
-    margin: 0 0 0 170px;
+    margin: 0 0 0 168px;
+}
+.cc23 {
+    color: aliceblue;
+    margin: 0 0 0 172px;
 }
 
 .p677 {
@@ -143,6 +148,7 @@
 .kk2 {
     background-image: url(img/GORI.png);
     height: 490px;
+    margin: 30px 0 0 0;
 
 }
 
@@ -175,7 +181,7 @@
     width: 50px;
 }
 
-.hj5 {
+.hj6 {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -183,7 +189,7 @@
 
 @media (max-width: 750px)
 {
-.fon,.c1,.c1,.f1,.f2,.o1,.d1,.d2,.d3,.p3,.t5,.n,.cccccccc,.O01,.u3,.u4,.m1,.p666,.l23332,.o1111,.gh0,.gh1,.gh2,.gh3,.gh4,.cccccccc2,.cc22,.p6106,.gh43,.o0000,.u2234,.kk2,.lo1,.yg6,.ui0,.lkg5
+.fon,.kjl,.c1,.c1,.f1,.f2,.o1,.d1,.d2,.d3,.p3,.t5,.n,.cccccccc,.O01,.u3,.u4,.m1,.p666,.l23332,.o1111,.gh0,.gh1,.gh2,.gh3,.gh4,.cccccccc2,.cc22,.p6106,.gh43,.o0000,.u2234,.kk2,.lo1,.yg6,.ui0,.lkg5,.ssd1,.lkg6,.lkg7,.bn4,.ke
 { display:flex ;
 justify-content: center;
 align-items: center;
@@ -209,7 +215,6 @@ margin: 100px 0 0 100px;
 .ke {
     color: coral;
 }
-
 
 
 
